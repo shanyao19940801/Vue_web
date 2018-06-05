@@ -1,4 +1,4 @@
-var IMAGE_URL = 'http://13.250.226.195:8888/dbImage/';
+var IMAGE_URL = 'http://47.100.211.121:8081/dbImage/';
 //var WS_URL = "ws://127.0.0.1:8080/ws";
 //var WS_URL = "ws://13.250.226.195:8080/ws";
 var WS_URL = "ws://13.250.226.195/ws";

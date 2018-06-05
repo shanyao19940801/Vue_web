@@ -32,7 +32,8 @@ function doPost(event, data) {
 	});
 }
 //var POST_URL = "http://127.0.0.1:8080";
-var POST_URL = "http://13.250.226.195";
+// var POST_URL = "http://47.100.211.121:8080";
+var POST_URL = "http://localhost:8081";
 //var POST_URL = "fe2o3.club";
 
 function invokeEventMethod(event, method, arguments, otherwise) {
